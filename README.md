@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AISMG-BAKER
+- 👋 Hi, I’m BAKER
 - 👀 I’m interested in Ingeniería de Software/Software Engineering
 - 🌱 I’m currently learning Software Engineering-CODECADEMY--/Basic knowledge in Python, HTML and CSS; 
 Intermediate knowledge in C++ and JS/Conocimiento basico en Python, HTML Y CSS; 

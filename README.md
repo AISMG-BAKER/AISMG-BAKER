@@ -1,7 +1,7 @@
 - 👋 Hi, I’m BAKER
 - 👀 I’m interested in Ingeniería de Software/Software Engineering
 - 🌱 I’m currently learning Software Engineering-CODECADEMY--/Basic knowledge in Python, HTML and CSS; 
-Intermediate knowledge in C++ and JS/Conocimiento basico en Python, HTML Y CSS; 
+Intermediate knowledge in C++ and JS;/CODECADEMY-CERTIFICATE-BACK-END ENGINEER AND FRONT-END ENGINEER/Conocimiento basico en Python, HTML Y CSS; 
 Conocimiento intermedio en C++ y JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
